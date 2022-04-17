@@ -1,0 +1,30 @@
+- C1 ( phone ) arrived
+- C5 ( pc ) arrived
+- C6 ( Server ) arrived
+- C4 ( Tablet ) arrived and waiting
+- C3 ( Tv ) arrived and waiting
+- C2 ( phone2 ) arrived and waiting
+- Connection 2: C6 occupied
+- Connection 3: C1 occupied
+- Connection 1: C5 occupied
+- Connection 1: C5 login
+- Connection 2: C6 login
+- Connection 3: C1 login
+- Connection 1: C5 Performs online activity
+- Connection 2: C6 Performs online activity
+- Connection 3: C1 Performs online activity
+- Connection 3: C1 Logged out
+- Connection 1: C5 Logged out
+- Connection 2: C6 Logged out
+- Connection 1: C2 occupied
+- Connection 2: C3 occupied
+- Connection 3: C4 occupied
+- Connection 2: C3 login
+- Connection 3: C4 login
+- Connection 1: C2 login
+- Connection 1: C2 Performs online activity
+- Connection 3: C4 Performs online activity
+- Connection 2: C3 Performs online activity
+- Connection 2: C3 Logged out
+- Connection 3: C4 Logged out
+- Connection 1: C2 Logged out
